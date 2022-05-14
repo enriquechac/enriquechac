@@ -20,7 +20,7 @@ Computer Systems Engineer
 
 * 🌍  I'm based in Mexico
 * 🖥️  See my portfolio at [enriquechacon.com](http://enriquechacon.com)
-* 🧠  I'm learning ReactJs, TypeScipt and Flutter
+* 🧠  I'm learning ReactJs, TypeScript and Flutter
 
 <a href="https://www.twitter.com/enriquechac" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/enriquechac?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
